@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "15316859a3ae0626",
+    "type": "split",
+    "children": [
+      {
+        "id": "22d7ce72622ccfe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f939518d1e25b529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书/长安的荔枝.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "长安的荔枝"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af2b411cb51fcdec",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d94496d37e0e89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857b4768aa441ff9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0a0aedeb50b32fb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e2d66d11bfb734ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a05a2c32c7c3fa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "89cca2de0cd1dc6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72813947eb3e9cc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "useSyncExternalStore：解决并发渲染下的数据撕裂.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "useSyncExternalStore：解决并发渲染下的数据撕裂 的反向链接列表"
+            }
+          },
+          {
+            "id": "7b000bd0c84f3791",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "useSyncExternalStore：解决并发渲染下的数据撕裂.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "useSyncExternalStore：解决并发渲染下的数据撕裂 的出链列表"
+            }
+          },
+          {
+            "id": "0a6f4d3fa9928981",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1c574d17bdf3ad51",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "97d61c36d50e8c4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "读书/长安的荔枝.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "长安的荔枝 的大纲"
+            }
+          },
+          {
+            "id": "a5a52718c1f82ec5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f939518d1e25b529",
+  "lastOpenFiles": [
+    "计算机/【docker】快速入门.md",
+    "计算机/【杂谈】tailwind好在哪.md",
+    "计算机/【nginx】快速入门.md",
+    "计算机/【面试】JS面试题整理.md",
+    "英语/history.md",
+    "计算机/【css】查缺补漏 2（居中 BFC）.md",
+    "计算机/【css】查缺补漏 1（盒模型，半透明，最大最小宽高，颜色）.md",
+    "计算机/【css】查缺补漏 3（包含块 尺寸百分比 定位）.md",
+    "计算机/【sql】光学不练假把式.md",
+    "计算机/CSS 查缺补漏 4（层叠上下文）.md",
+    "计算机/【笔记】详解nodejs环境变量配置.md",
+    "计算机/【笔记】Core Web Vitals（核心指标）.md",
+    "计算机/【杂谈】AI时代必做的几件事.md",
+    "计算机/【笔记】关于Http.md",
+    "计算机/【杂谈】组合凭什么大于继承？.md",
+    "搞钱/自媒体的实操笔记.md",
+    "计算机/【ai】智能体的设计模式.md",
+    "读书/这书能让你戒烟.md",
+    "读书/长安的荔枝.md",
+    "读书",
+    "计算机/【笔记】在你使用memo()之前.md",
+    "计算机/【笔记】学习react19.2新特性.md",
+    "计算机/【区块链】2比特币的共识与运行机制.md",
+    "搞钱/闲鱼卖货从零到一：一个程序员的副业操作手册.md",
+    "计算机/【杂谈】为了干掉前端，我们付出多少努力.md",
+    "计算机/【杂谈】软件范式转换，开发别太焦虑.md",
+    "计算机/【面试】前端面试考点整理.md",
+    "全栈",
+    "搞钱",
+    "佛学",
+    "英语",
+    "未命名.canvas",
+    "计算机",
+    "web.base"
+  ]
+}
