@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/js/new操作符原理.md",
+                "file": "读书/长安的荔枝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new操作符原理"
+              "title": "长安的荔枝"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机/js/new操作符原理.md",
+                "file": "读书/长安的荔枝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "new操作符原理 的反向链接列表"
+              "title": "长安的荔枝 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机/js/new操作符原理.md",
+                "file": "读书/长安的荔枝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "new操作符原理 的出链列表"
+              "title": "长安的荔枝 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机/js/new操作符原理.md",
+                "file": "读书/长安的荔枝.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "new操作符原理 的大纲"
+              "title": "长安的荔枝 的大纲"
             }
           },
           {
@@ -195,8 +195,21 @@
   },
   "active": "a5a52718c1f82ec5",
   "lastOpenFiles": [
-    "计算机/js/this指向.md",
+    "读书/这书能让你戒烟.md",
+    "计算机/【面试】前端面试考点整理.md",
+    "计算机/css/居中方案.md",
+    "计算机/css/盒模型.md",
+    "计算机/css/包含块.md",
+    "计算机/css/CSS定位.md",
+    "计算机/css/Tailwind自定义变量.md",
+    "计算机/css/shadcn主题实现.md",
+    "计算机/css/CSS-root伪类.md",
+    "计算机/css/CSS-prefers-color-scheme.md",
+    "计算机/css/BFC.md",
+    "计算机/css/CSS-has选择器.md",
+    "计算机/css/最大最小宽高.md",
     "计算机/js/new操作符原理.md",
+    "计算机/js/this指向.md",
     "计算机/js/JS计时器精度.md",
     "计算机/typescript/Exclude与Omit区别.md",
     "计算机/react/cacheSignal.md",
@@ -208,19 +221,6 @@
     "计算机/react/React-memo深入.md",
     "计算机/react/React-memo.md",
     "计算机/react/React-Activity组件.md",
-    "计算机/sql/SQL联表查询.md",
-    "计算机/typescript/TypeScript元组类型获取.md",
-    "计算机/typescript/TypeScript-never类型.md",
-    "观点/【杂谈】从共置聊到vue维护痛点.md",
-    "计算机/工程化/大文件上传.md",
-    "计算机/工程化/Node环境变量.md",
-    "计算机/工程化/Nginx核心概念.md",
-    "计算机/工程化/Docker核心概念.md",
-    "计算机/js/Web-Worker全家桶.md",
-    "计算机/浏览器/Content-Disposition.md",
-    "计算机/浏览器/will-change.md",
-    "计算机/浏览器/层叠上下文.md",
-    "计算机/浏览器/回流与重绘.md",
     "计算机/状态",
     "计算机/兼容性",
     "计算机/工具",
