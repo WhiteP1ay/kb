@@ -1,0 +1,9 @@
+{
+  "folder": "Templates",
+  "folderTemplates": [
+    {
+      "folder": "英语",
+      "template": "Templates/英语单词.md"
+    }
+  ]
+}
