@@ -9,7 +9,9 @@ created: "2026-07-02"
 
 ## 是什么
 
-HTTPS = HTTP + TLS/SSL。通过非对称加密交换对称密钥，后续通信使用对称加密。6步握手：ClientHello→ServerHello+证书→验证证书→加密传输预主密钥→双方获得会话密钥→加密通信。
+HTTPS = HTTP + TLS/SSL。
+通过非对称加密交换对称密钥，后续通信使用对称加密。
+6步握手：ClientHello→ServerHello+证书→验证证书→加密传输预主密钥→双方获得会话密钥→加密通信。
 
 ## 关键点
 
