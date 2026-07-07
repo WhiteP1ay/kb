@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/temper.md",
+                "file": "计算机/浏览器/回流与重绘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temper"
+              "title": "回流与重绘"
             }
           }
         ]
@@ -185,11 +185,12 @@
   },
   "active": "b80f75d888ae4e4a",
   "lastOpenFiles": [
+    "计算机/浏览器/层叠上下文.md",
+    "英语/temperament.md",
+    "英语/temper.md",
     "英语/irritability.md",
     "英语/criticism.md",
-    "英语/temperament.md",
     "英语/disposition.md",
-    "英语/temper.md",
     "英语/bent.md",
     "英语/inclination.md",
     "英语/violated.md",
@@ -210,7 +211,6 @@
     "英语/audit.md",
     "英语/rigorous.md",
     "英语/scrupulous.md",
-    "英语/meticulous.md",
     "仪表盘",
     "计算机/状态",
     "计算机/兼容性",
