@@ -26,7 +26,7 @@ dis-（分开，离开）+ posit（放置，来自拉丁语 ponere）+ -ion（�
 HTTP 里的 [[Content-Disposition]] 头用的就是"处置/安排"这个义项——告诉浏览器这个内容是"直接展示"还是"下载保存"。
 
 ## 同义词
-temperament, inclination, tendency, nature
+[[temperament]], [[inclination]], tendency, [[bent]], [[temper]], nature
 
 ## 相关单词
 [[Content-Disposition]]
