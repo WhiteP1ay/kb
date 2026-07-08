@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "ff8d272b8de55cb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4741fb918cc4ec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f3aea34d8d4648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机/js/双等号判断规则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "双等号判断规则"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5c335454a538559",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "343552d5c615b729",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "9abbb631eda27110",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "1d919e59d763372d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "c76f757497623539",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "58bf799bace4cd9a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b2d164a9820d56b9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "英语/exact.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "b6475faf17518eef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "a38f20cb665974b3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "d6f3aea34d8d4648",
+  "lastOpenFiles": [
+    "英语.md",
+    "佛学/五方佛.md",
+    "佛学/华严三圣.md",
+    "观点/【杂谈】组合凭什么大于继承？.md",
+    "观点/【杂谈】为了干掉前端，我们付出多少努力.md",
+    "计算机/css/居中方案.md",
+    "计算机/状态/Context-API.md",
+    "读书/财富的底层逻辑/价值交换.md",
+    "读书/财富的底层逻辑/存量思维与增量思维.md",
+    "读书/财富的底层逻辑/认知迭代.md",
+    "读书/财富的底层逻辑/资本思维.md",
+    "读书/财富的底层逻辑/复利效应.md",
+    "读书/财富的底层逻辑/个人价值变现.md",
+    "读书/财富的底层逻辑/财富自由的数学.md",
+    "读书/财富的底层逻辑/成本思维.md",
+    "读书/财富的底层逻辑",
+    "读书/当下的力量/本体与开悟.md",
+    "读书/当下的力量/观察者.md",
+    "读书/当下的力量/思维认同.md",
+    "读书/当下的力量/小我.md",
+    "读书/当下的力量/临在.md",
+    "读书/当下的力量/当下.md",
+    "读书/当下的力量/心理时间.md",
+    "读书/当下的力量/内在身体.md",
+    "读书/当下的力量/痛苦之身.md",
+    "读书/当下的力量/臣服.md",
+    "读书/当下的力量",
+    "读书/富爸爸穷爸爸/自律.md",
+    "读书/富爸爸穷爸爸"
+  ]
+}
