@@ -9,7 +9,8 @@ created: "2026-07-02"
 
 ## 是什么
 
-React 18 并发渲染下，外部 store 可能在「同一轮渲染」里被不同组件读到不同版本（撕裂）。useSyncExternalStore 让 React 在渲染阶段同步读取快照来保证一致性。
+React 18 并发渲染下，外部 store 可能在「同一轮渲染」里被不同组件读到不同版本（撕裂）。
+useSyncExternalStore 让 React 在渲染阶段同步读取快照来保证一致性。
 
 ## 关键点
 

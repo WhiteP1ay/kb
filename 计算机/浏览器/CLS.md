@@ -9,7 +9,9 @@ created: "2026-07-02"
 
 ## 是什么
 
-衡量页面视觉稳定性。越大元素偏移越远，CLS 越差。layout shift score = impact fraction × distance fraction。
+衡量页面视觉稳定性。越大元素偏移越远，CLS 越差。
+
+layout shift score = impact fraction × distance fraction。
 
 ## 关键点
 
