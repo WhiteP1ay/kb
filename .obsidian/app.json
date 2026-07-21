@@ -3,5 +3,6 @@
   "showInlineTitle": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "收件箱",
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true
 }
