@@ -25,4 +25,5 @@ in-（朝、向）+ tent（伸展，来自拉丁语 tendere）= 把意念朝某�
 purpose, aim, intention, goal, objective
 
 ## 相关单词
+[[deliberate]]
 <!-- [[link]] -->
