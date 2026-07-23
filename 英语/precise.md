@@ -15,6 +15,7 @@ adj. 精确的，准确的，确切的
 
 ## 例句
 The GPS gave us the precise coordinates of the building.
+[[coordinate]]
 
 When debugging, you need to be precise about which line caused the crash — "somewhere in this file" doesn't cut it.
 

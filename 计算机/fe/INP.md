@@ -2,6 +2,7 @@
 tags:
   - 性能
   - Core Web Vitals
+  - 浏览器
 created: "2026-07-02"
 ---
 
