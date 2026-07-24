@@ -1,7 +1,6 @@
 ---
 tags:
-  - 英语
-  - 单词
+  - 词缀
 created: 2026-07-09
 source: 从 characteristics 的词根拆分引出
 ---

@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-09
 source: So you want to build your own AI agent from scratch?
 ---

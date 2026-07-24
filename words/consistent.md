@@ -1,7 +1,6 @@
 ---
 tags:
-  - 英语
-  - 单词
+  - sist
 created: 2026-07-17
 source: 查词添加（consist 同词根）
 ---

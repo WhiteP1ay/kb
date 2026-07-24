@@ -1,7 +1,6 @@
 ---
 tags:
-  - 英语
-  - 单词
+  - 短语
 created: 2026-07-02
 source: "Quantize the hell out of it until they hit the threshold of complaints, then give them random resets to keep the peasants happy"
 ---

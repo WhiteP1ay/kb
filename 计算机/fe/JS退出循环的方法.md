@@ -1,8 +1,7 @@
 ---
 tags:
-  - 面试
   - JavaScript
-  - 基础
+  - 面试
 created: "2026-07-02"
 ---
 

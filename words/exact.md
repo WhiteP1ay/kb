@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-03
 source: precise同义词
 ---

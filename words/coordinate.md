@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-09
 source: Each component should only "think for itself", and not attempt to coordinate with or depend upon others during rendering.
 ---

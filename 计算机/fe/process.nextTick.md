@@ -1,9 +1,8 @@
 ---
 tags:
-  - 面试
-  - Node.js
   - JavaScript
-  - 事件循环
+  - Node.js
+  - 面试
 created: "2026-07-22"
 ---
 

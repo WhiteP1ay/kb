@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-17
 source: ... and get red squiggles on the fly as you'd make edits.
 ---

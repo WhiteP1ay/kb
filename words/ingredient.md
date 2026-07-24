@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-09
 source: You could think of your components as recipes: if you follow them and don't introduce new ingredients during the cooking process, you will get the same dish every time.
 ---

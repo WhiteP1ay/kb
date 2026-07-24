@@ -1,7 +1,6 @@
 ---
 tags:
   - React
-  - React19
 created: "2026-07-02"
 ---
 

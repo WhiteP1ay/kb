@@ -1,7 +1,6 @@
 ---
 tags:
   - 面试
-  - TypeScript
 created: "2026-07-02"
 ---
 

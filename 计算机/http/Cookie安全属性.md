@@ -1,9 +1,7 @@
 ---
 tags:
-  - 面试
   - HTTP
-  - Cookie
-  - 安全
+  - 面试
 created: "2026-07-22"
 ---
 

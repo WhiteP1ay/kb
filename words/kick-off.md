@@ -1,7 +1,6 @@
 ---
 tags:
-  - 英语
-  - 单词
+  - 短语
 created: 2026-07-09
 source: Kicking off planning for the next React Conf
 ---

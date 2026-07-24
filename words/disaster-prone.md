@@ -1,7 +1,6 @@
 ---
 tags:
-  - 英语
-  - 单词
+  - 短语
 created: 2026-06-24
 source: Walter Isaacson《Elon Musk》
 ---

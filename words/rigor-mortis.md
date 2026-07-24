@@ -1,7 +1,6 @@
 ---
 tags:
-  - 英语
-  - 单词
+  - 短语
 created: 2026-07-06
 source: rigorous词根扩展
 ---

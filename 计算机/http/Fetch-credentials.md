@@ -1,10 +1,7 @@
 ---
 tags:
-  - 面试
   - HTTP
-  - Fetch
-  - Cookie
-  - CORS
+  - 面试
 created: "2026-07-22"
 ---
 

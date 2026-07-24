@@ -1,7 +1,6 @@
 ---
 tags:
   - mysql
-  - 数据库
 created: 2026-07-23
 ---
 

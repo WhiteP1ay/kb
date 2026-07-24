@@ -1,7 +1,6 @@
 ---
 tags:
-  - 英语
-  - 单词
+  - sist
 created: 2026-07-17
 source: "His code review consisted entirely of criticism with zero suggestions"
 ---
@@ -17,7 +16,7 @@ v. 由…组成；在于
 - **consist in** — 在于，存在于
 
 ## 例句
-His code review consisted entirely of criticism with zero suggestions.
+His code review consisted entirely of criticism with zero suggestions.  [[criticism]]
 
 The training dataset consists of 10 million high-quality instruction-response pairs. *(自造句)*
 

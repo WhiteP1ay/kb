@@ -1,8 +1,6 @@
 ---
 tags:
   - React
-  - React19
-  - SSR
 created: "2026-07-02"
 ---
 

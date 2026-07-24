@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-09
 source: In computer science (and especially the world of functional programming), a pure function is a function with the following characteristics:
 ---

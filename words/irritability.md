@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-06
 source: 查词添加（temper 相关词）
 ---

@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-17
 source: Delays on find-all-references, auto-completion, and diagnostics should take a fraction of the time they used to.
 ---

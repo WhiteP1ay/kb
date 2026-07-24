@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-17
 source: TypeScript made it possible to build non-trivial high-quality apps across platforms.
 ---

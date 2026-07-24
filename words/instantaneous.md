@@ -1,7 +1,4 @@
 ---
-tags:
-  - 英语
-  - 单词
 created: 2026-07-17
 source: Waiting for your editor to fully load your project will feel instantaneous.
 ---

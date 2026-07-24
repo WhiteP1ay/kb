@@ -1,7 +1,6 @@
 ---
 tags:
-  - 英语
-  - 单词
+  - 短语
 created: 2026-06-17
 source: Linux Foundation press release
 ---
