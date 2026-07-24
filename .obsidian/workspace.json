@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c4bb26a5c734854",
+        "id": "a577e9b5bcc21631",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d8b92913a6c42e",
+            "id": "2e2c2a92a7f40b1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -180,8 +180,9 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "c7d8b92913a6c42e",
+  "active": "2e2c2a92a7f40b1e",
   "lastOpenFiles": [
+    "搞钱/闲鱼/上架四要素.md",
     "prime.md",
     "搞钱/72法则.md",
     "佛学/杂阿含经-观色无常.md",
@@ -207,7 +208,6 @@
     "words/coordinate.md",
     "words/consistent.md",
     "words/consist.md",
-    "words/concise.md",
     "assets/Pasted image 20260723135105.png",
     "readings",
     "assets/Pasted image 20260723171343.png",
