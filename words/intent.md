@@ -24,4 +24,4 @@ purpose, aim, intention, goal, objective
 
 ## 相关单词
 [[deliberate]]
-<!-- [[link]] -->
+<!-- -->

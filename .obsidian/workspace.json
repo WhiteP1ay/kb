@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dfc6735154016932",
+        "id": "4c4bb26a5c734854",
         "type": "tabs",
         "children": [
           {
-            "id": "2644f9f231638fbf",
+            "id": "c7d8b92913a6c42e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "搞钱/72法则.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "72法则"
+              "title": "新标签页"
             }
           }
         ]
@@ -184,8 +180,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "2644f9f231638fbf",
+  "active": "c7d8b92913a6c42e",
   "lastOpenFiles": [
+    "prime.md",
+    "搞钱/72法则.md",
     "佛学/杂阿含经-观色无常.md",
     "佛学/永嘉证道歌名句.md",
     "佛学/五盖.md",
@@ -210,8 +208,6 @@
     "words/consistent.md",
     "words/consist.md",
     "words/concise.md",
-    "words/concept.md",
-    "words/meet demand.md",
     "assets/Pasted image 20260723135105.png",
     "readings",
     "assets/Pasted image 20260723171343.png",

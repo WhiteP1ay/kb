@@ -30,4 +30,4 @@ legendary（传说中的）, fabled（寓言中的）, imaginary（虚构的）
 
 ## 相关单词
 
-[[myth]], mythology（神话学/神话体系）
+, mythology（神话学/神话体系）

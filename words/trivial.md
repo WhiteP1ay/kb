@@ -30,4 +30,4 @@ Compared to the Rust borrow checker, TypeScript's type system feels almost trivi
 unimportant, insignificant, minor, trifling, petty
 
 ## 相关单词
-<!-- [[trivia]] -->
+<!-- -->

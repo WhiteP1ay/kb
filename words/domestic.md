@@ -33,4 +33,4 @@ adj. 家庭的：household, home, family
 
 ## 相关单词
 
-[[domain]], domestic violence（家暴）, GDP（Gross Domestic Product 国内生产总值）
+, domestic violence（家暴）, GDP（Gross Domestic Product 国内生产总值）

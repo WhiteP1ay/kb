@@ -28,4 +28,4 @@ breathtaking（令人屏息的）, gorgeous（极美的）, spectacular（壮观
 
 ## 相关单词
 
-[[stun]]
+

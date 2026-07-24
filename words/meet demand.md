@@ -25,4 +25,4 @@ We can't hire fast enough to meet the growing demand. （招人速度跟不上�
 
 ## 相关笔记
 
-[[supply and demand]]
+

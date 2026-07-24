@@ -34,4 +34,4 @@ Ever since the TS compiler rewrite, diagnostics pop up before I even finish typi
 analysis, troubleshooting, error-checking, code inspection
 
 ## 相关单词
-<!-- [[diagnosis]] [[agnostic]] [[prognosis]] [[fraction]] [[instantaneous]] -->
+<!-- [[fraction]] [[instantaneous]] -->

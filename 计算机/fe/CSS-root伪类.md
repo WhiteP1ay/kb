@@ -19,4 +19,4 @@ created: "2026-07-02"
 
 ## 相关笔记
 
-[[shadcn主题实现]] [[CSS :has选择器]]
+[[shadcn主题实现]] [[CSS-has选择器]]

@@ -24,4 +24,4 @@ Researchers have been studying primate behavior in the wild for decades. （研�
 
 ## 相关单词
 
-[[prime]], [[primary]], [[primitive]]
+, ,

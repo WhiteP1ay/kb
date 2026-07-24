@@ -30,4 +30,4 @@ rigorous vs stringent vs strict 三角区分：
 strict, rigorous, severe, restrictive, tight
 
 ## 相关单词
-[[rigorous]] [[strict]]
+[[rigorous]]

@@ -28,4 +28,4 @@ I'll meet you at the box office ten minutes before the show starts.
 
 ## 相关笔记
 
-<!-- [[blockbuster]], [[box office bomb]] -->
+<!-- , -->

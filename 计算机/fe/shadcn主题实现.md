@@ -19,4 +19,4 @@ created: "2026-07-02"
 
 ## 相关笔记
 
-[[CSS prefers-color-scheme]] [[CSS :root伪类]]
+[[CSS-prefers-color-scheme]] [[CSS-root伪类]]

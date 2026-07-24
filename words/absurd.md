@@ -30,4 +30,4 @@ ridiculous 偏"好笑"，absurd 偏"荒唐不合逻辑"，preposterous 是"荒�
 
 ## 相关单词
 
-[[ridiculous]]
+

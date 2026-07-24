@@ -33,4 +33,4 @@ The red squiggles in VS Code saved me from deploying a null reference to product
 curlicue, wavy line, scrawl, doodle
 
 ## 相关单词
-<!-- [[scribble]] -->
+<!-- -->

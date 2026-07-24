@@ -30,4 +30,4 @@ With the M4 Mac's single-core performance, TypeScript compilation feels instanta
 immediate, instant, split-second, momentary, swift
 
 ## 相关单词
-<!-- [[diagnostics]] [[fraction]] [[instant]] -->
+<!-- [[diagnostics]] [[fraction]] -->
