@@ -31,3 +31,5 @@ be, live, occur, prevail
 
 ## 相关单词
 [[consist]] [[assist]] [[insist]] [[persist]] [[resist]] [[consistent]]
+
+- [[The AI feature that broke everything]]（范文）

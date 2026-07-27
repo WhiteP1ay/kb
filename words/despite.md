@@ -27,3 +27,6 @@ She got the job despite having no experience. （尽管没有经验，她还是�
 ## 相关笔记
 
 [[despite-vs-although]]
+## 相关单词
+
+- [[The AI feature that broke everything]]（范文）

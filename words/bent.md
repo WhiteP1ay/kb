@@ -25,3 +25,5 @@ inclination, talent, aptitude, disposition, flair
 
 ## 相关单词
 [[disposition]] [[inclination]]
+
+- [[The AI feature that broke everything]]（范文）

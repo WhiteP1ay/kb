@@ -23,3 +23,4 @@ esse(拉丁语"存在/本质") + tial → 关乎本质的 → 必不可少的。
 crucial, vital, indispensable, fundamental
 
 ## 相关单词
+- [[The AI feature that broke everything]]（范文）

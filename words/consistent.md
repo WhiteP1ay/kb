@@ -31,3 +31,5 @@ steady, uniform, constant, coherent
 
 ## 相关单词
 [[consist]] [[assist]] [[insist]] [[persist]] [[resist]] [[exist]]
+
+- [[The AI feature that broke everything]]（范文）

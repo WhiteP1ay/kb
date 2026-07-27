@@ -31,3 +31,5 @@ help, aid, support
 
 ## 相关单词
 [[consist]] [[insist]] [[persist]] [[resist]] [[exist]] [[consistent]]
+
+- [[The AI feature that broke everything]]（范文）

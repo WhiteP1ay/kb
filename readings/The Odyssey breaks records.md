@@ -19,13 +19,13 @@ The new Christopher Nolan movie 'The Odyssey' has broken box office records acro
 
 ## 覆盖的知识点
 
-| 知识点 | 文中出现 |
-|--------|----------|
-| [[the box office]] | broke box office records |
-| $290,000 读法 | two hundred ninety thousand |
-| [[domestic]] | biggest domestic opening |
-| [[meet demand]] | screenings to meet demand |
-| [[star-studded cast]] | star-studded cast including... |
-| [[mythical]] | mythical creatures |
-| [[positive-negative-mixed-reviews]] | positive reviews |
-| 2017 年读法 | twenty seventeen |
+| 知识点                                 | 文中出现                           |
+| ----------------------------------- | ------------------------------ |
+| [[the box office]]                  | broke box office records       |
+| $290,000 读法                         | two hundred ninety thousand    |
+| [[domestic]]                        | biggest domestic opening       |
+| [[meet demand]]                     | screenings to meet demand      |
+| [[star-studded cast]]               | star-studded cast including... |
+| [[mythical]]                        | mythical creatures             |
+| [[positive-negative-mixed-reviews]] | positive reviews               |
+| 2017 年读法                            | twenty seventeen               |

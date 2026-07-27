@@ -30,3 +30,5 @@ Nolan's films have a distinctive visual language. （诺兰的电影有独特的
 ## 相关单词
 
 distinct, distinguish（区分）
+
+- [[The AI feature that broke everything]]（范文）

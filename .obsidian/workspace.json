@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a577e9b5bcc21631",
+        "id": "820044a1a3f3efbc",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2c2a92a7f40b1e",
+            "id": "6c608d8298d0b7a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "readings/The AI feature that broke everything.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "The AI feature that broke everything"
             }
           }
         ]
@@ -180,34 +184,34 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "2e2c2a92a7f40b1e",
+  "active": "6c608d8298d0b7a7",
   "lastOpenFiles": [
-    "搞钱/闲鱼/上架四要素.md",
-    "prime.md",
-    "搞钱/72法则.md",
-    "佛学/杂阿含经-观色无常.md",
-    "佛学/永嘉证道歌名句.md",
-    "佛学/五盖.md",
-    "佛学/四弘誓愿.md",
-    "佛学/十善业.md",
-    "佛学/华严经名句.md",
-    "佛学/观经-是心作佛.md",
-    "佛学/咒语/往生咒.md",
-    "佛学/咒语/准提咒.md",
-    "佛学/咒语/孔雀明王咒.md",
-    "咒语概念.md",
-    "佛学/往生咒.md",
-    "佛学/准提咒.md",
-    "认知/注意力.md",
-    "readings/The Odyssey breaks records.md",
-    "words/exist.md",
-    "words/exact.md",
-    "words/essential.md",
-    "words/distinctive.md",
-    "distinct.md",
-    "words/coordinate.md",
-    "words/consistent.md",
-    "words/consist.md",
+    "words/concept.md",
+    "readings/The AI feature that broke everything.md",
+    "words/accuse.md",
+    "readings/Two Russian men jailed in Angola.md",
+    "words/bent.md",
+    "words/election.md",
+    "words/protest.md",
+    "words/respectively.md",
+    "words/embassy.md",
+    "words/detention.md",
+    "words/appeal.md",
+    "words/acquit.md",
+    "words/wing.md",
+    "words/suspend.md",
+    "words/coup.md",
+    "words/boost ties.md",
+    "words/equatorial.md",
+    "words/neighbouring.md",
+    "words/troops.md",
+    "words/junta.md",
+    "words/congress.md",
+    "words/presence.md",
+    "words/absorb.md",
+    "words/corps.md",
+    "words/intelligence.md",
+    "words/investigation.md",
     "assets/Pasted image 20260723135105.png",
     "readings",
     "assets/Pasted image 20260723171343.png",

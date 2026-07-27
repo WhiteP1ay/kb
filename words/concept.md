@@ -24,3 +24,5 @@ idea（想法）, notion（观念）, conception（构想）, abstraction（抽�
 
 ## 相关单词
 conceive（构思/怀孕）, conception（构想/受孕）, conceptual（概念上的）, capture（抓住—同词根 capere）
+
+- [[The AI feature that broke everything]]（范文）

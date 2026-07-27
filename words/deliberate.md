@@ -33,3 +33,5 @@ intentional, calculated, premeditated (adj.); ponder, contemplate, weigh (v.)
 
 ## 相关单词
 [[intent]]
+
+- [[The AI feature that broke everything]]（范文）

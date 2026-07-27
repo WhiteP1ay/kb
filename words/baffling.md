@@ -24,3 +24,5 @@ bewildering（令人困惑的）, perplexing（费解的）, puzzling（令人�
 
 ## 相关单词
 [[unpredictable]], baffle（v. 使困惑）
+
+- [[The AI feature that broke everything]]（范文）

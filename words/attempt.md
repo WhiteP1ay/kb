@@ -26,3 +26,5 @@ try（尝试）, endeavor（努力）, seek（寻求）, strive（奋力）
 
 ## 相关单词
 [[coordinate]], tempt（诱惑）
+
+- [[The AI feature that broke everything]]（范文）

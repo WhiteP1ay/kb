@@ -33,3 +33,5 @@ portion, fragment, bit, sliver, scrap
 
 ## 相关单词
 <!-- [[diagnostics]] [[instantaneous]] -->
+
+- [[The AI feature that broke everything]]（范文）

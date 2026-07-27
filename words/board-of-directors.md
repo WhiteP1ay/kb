@@ -26,3 +26,5 @@ executive board, governing board
 
 ## 相关单词
 [[representative]] [[press-release]] [[independent-foundation]]
+
+- [[The AI feature that broke everything]]（范文）

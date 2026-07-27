@@ -24,3 +24,5 @@ precise, exact, correct
 
 ## 相关单词
 [[precise]] [[exact]]
+
+- [[The AI feature that broke everything]]（范文）

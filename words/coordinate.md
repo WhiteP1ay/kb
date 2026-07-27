@@ -27,3 +27,5 @@ organize（组织）, synchronize（同步）, align（对齐）, harmonize（�
 
 ## 相关单词
 [[attempt]], order（秩序/命令—同词根 ordo）, subordinate（下级/从属的—sub=下 + ordinate=排列）
+
+- [[The AI feature that broke everything]]（范文）

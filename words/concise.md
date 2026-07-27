@@ -26,3 +26,5 @@ succinct, brief, terse
 
 ## 相关单词
 [[precise]] [[incisive]]
+
+- [[The AI feature that broke everything]]（范文）

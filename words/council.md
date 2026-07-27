@@ -26,3 +26,5 @@ committee（委员会）, board（董事会）, panel（专家小组）, assembl
 
 ## 相关单词
 counsel（建议/法律顾问 — 同音易混词）
+
+- [[The AI feature that broke everything]]（范文）

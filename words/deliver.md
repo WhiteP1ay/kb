@@ -34,3 +34,5 @@ The takeout was delivered in 20 minutes. （外卖二十分钟送到了）
 ## 相关单词
 
 [[absurd]]
+
+- [[The AI feature that broke everything]]（范文）

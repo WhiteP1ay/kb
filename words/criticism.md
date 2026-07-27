@@ -24,3 +24,5 @@ critique, censure, condemnation, disapproval, feedback
 
 ## 相关单词
 [[temper]]
+
+- [[The AI feature that broke everything]]（范文）

@@ -37,3 +37,5 @@ rhythm, beat, tempo, pulse, meter, intonation
 
 ## 相关单词
 <!-- -->
+
+- [[The AI feature that broke everything]]（范文）

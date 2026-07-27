@@ -32,3 +32,5 @@ inspection, examination, review, scrutiny, check
 
 ## 相关单词
 <!-- 暂无 -->
+
+- [[The AI feature that broke everything]]（范文）

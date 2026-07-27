@@ -35,3 +35,5 @@ analysis, troubleshooting, error-checking, code inspection
 
 ## 相关单词
 <!-- [[fraction]] [[instantaneous]] -->
+
+- [[The AI feature that broke everything]]（范文）
