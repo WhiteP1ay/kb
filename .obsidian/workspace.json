@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readings/The AI feature that broke everything.md",
+                "file": "words/concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The AI feature that broke everything"
+              "title": "concept"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6c608d8298d0b7a7",
+  "active": "a5a52718c1f82ec5",
   "lastOpenFiles": [
-    "words/concept.md",
     "readings/The AI feature that broke everything.md",
+    "words/concept.md",
     "words/accuse.md",
     "readings/Two Russian men jailed in Angola.md",
     "words/bent.md",
