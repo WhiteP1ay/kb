@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "认知/起步.md",
+                "file": "计算机/py/uv.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "起步"
+              "title": "uv"
             }
           }
         ]
@@ -186,6 +186,14 @@
   },
   "active": "5b688e064c8ac3d3",
   "lastOpenFiles": [
+    "计算机/py/pyproject.toml.md",
+    "计算机/py/pyenv.md",
+    "计算机/py/虚拟环境.md",
+    "计算机/py/解释器.md",
+    "计算机/环境变量.md",
+    "计算机/py/uv.md",
+    "认知/起步.md",
+    "计算机/py",
     "认知/个人商业模式.md",
     "认知/复利.md",
     "Templates/知识卡片.md",
@@ -205,13 +213,6 @@
     "words/respectively.md",
     "words/protest.md",
     "words/prosecutor.md",
-    "words/propaganda.md",
-    "words/presence.md",
-    "words/positive-negative-mixed-reviews.md",
-    "words/politology.md",
-    "words/outlet.md",
-    "words/opposition.md",
-    "words/neighbouring.md",
     "assets/Pasted image 20260723135105.png",
     "readings",
     "assets/Pasted image 20260723171343.png",
@@ -220,7 +221,6 @@
     "认知",
     "assets",
     "计算机/fe",
-    "计算机/未命名",
     "读书/日本蜡烛图技术",
     "读书/早起的奇迹",
     "读书/念完哈佛念阿弥陀佛",
