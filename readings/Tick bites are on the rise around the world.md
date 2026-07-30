@@ -14,26 +14,26 @@ Doctors worldwide are becoming concerned about the increasing prevalence of tick
 
 ## 覆盖的知识点
 
-| 知识点 | 文中出现 | 备注 |
-|--------|----------|------|
-| [[tick]] | tick bites / tick activity / tick populations | 蜱虫（非时钟滴答） |
-| [[prevalence]] | increasing prevalence of ticks | 流行度、普遍存在 |
-| [[germ]] | carry germs from one host to another | 病菌 |
-| [[prevention]] | Centers for Disease Control and Prevention | 预防（pre- + vent + -ion） |
-| [[upswing]] | a dramatic upswing in tick activity | 急剧上升 |
-| [[annually]] | 31 million Americans are bitten by ticks annually | 每年地 |
-| [[climate]] | we're changing the climate | 气候 |
-| [[arachnid]] | Ticks are arachnids | 蛛形纲（八条腿） |
-| [[oval]] | oval, flat bodies | 椭圆形 |
-| [[spherical]] | bodies become spherical | 球形 |
-| [[latch on]] | latch on to animals and humans | 紧紧附着 |
-| [[sink]] | sinking their mouthparts into the skin | 插入（非下沉） |
-| [[victim]] | the skin of their victims | 受害者 |
-| [[pierce]] | mouthparts pierce the skin | 刺穿 |
-| [[saliva]] | Their saliva contains a mild anaesthetic | 唾液 |
-| [[mild]] | a mild anaesthetic | 温和的、轻微的 |
-| [[anaesthetic]] | a mild anaesthetic | 麻醉剂（an- + 感觉） |
-| [[insect]] | insect repellents | 昆虫（六条腿） |
-| [[repellent]] | wearing insect repellents | 驱虫剂（统称含蜱虫） |
-| — | be on the rise | 语法：be on the + n.（趋势已确立），比进行时更新闻化 |
-| — | wearing insect repellents | wear = 涂抹（上身上的东西），同 wear sunscreen/perfume |
+| 知识点             | 文中出现                                              | 备注                                         |
+| --------------- | ------------------------------------------------- | ------------------------------------------ |
+| [[tick]]        | tick bites / tick activity / tick populations     | 蜱虫（非时钟滴答）                                  |
+| [[prevalence]]  | increasing prevalence of ticks                    | 流行度、普遍存在                                   |
+| [[germ]]        | carry germs from one host to another              | 病菌                                         |
+| [[prevention]]  | Centers for Disease Control and Prevention        | 预防（pre- + vent + -ion）                     |
+| [[upswing]]     | a dramatic upswing in tick activity               | 急剧上升                                       |
+| [[annually]]    | 31 million Americans are bitten by ticks annually | 每年地                                        |
+| [[climate]]     | we're changing the climate                        | 气候                                         |
+| [[arachnid]]    | Ticks are arachnids                               | 蛛形纲（八条腿）                                   |
+| [[oval]]        | oval, flat bodies                                 | 椭圆形                                        |
+| [[spherical]]   | bodies become spherical                           | 球形                                         |
+| [[latch on]]    | latch on to animals and humans                    | 紧紧附着                                       |
+| [[sink]]        | sinking their mouthparts into the skin            | 插入（非下沉）                                    |
+| [[victim]]      | the skin of their victims                         | 受害者                                        |
+| [[pierce]]      | mouthparts pierce the skin                        | 刺穿                                         |
+| [[saliva]]      | Their saliva contains a mild anaesthetic          | 唾液                                         |
+| [[mild]]        | a mild anaesthetic                                | 温和的、轻微的                                    |
+| [[anaesthetic]] | a mild anaesthetic                                | 麻醉剂（an- + 感觉）                              |
+| [[insect]]      | insect repellents                                 | 昆虫（六条腿）                                    |
+| [[repellent]]   | wearing insect repellents                         | 驱虫剂（统称含蜱虫）                                 |
+| —               | be on the rise                                    | 语法：be on the + n.（趋势已确立），比进行时更新闻化          |
+| —               | wearing insect repellents                         | wear = 涂抹（上身上的东西），同 wear sunscreen/perfume |
