@@ -11,19 +11,19 @@ Extreme heat and wildfires are becoming common across the globe. Europe is exper
 
 ## 覆盖的知识点
 
-| 知识点 | 文中出现 |
-|--------|----------|
-| [[common across]] | common across the globe |
-| [[enormous]] | The enormous fire |
-| [[residents]] | 17,000 residents were evacuated |
-| [[evacuation]] | residents were evacuated |
-| [[unsettling]] | unsettling resemblance |
-| [[resemblance]] | unsettling resemblance |
-| [[pandemic]] | Covid-19 pandemic |
-| [[federation]] | National Firefighters Federation |
-| [[intense]] | intense heat |
-| [[dubbed]] | NASA dubbed these |
-| [[blaze]] | how the blaze will spread |
-| [[scenario]] | a David-versus-Goliath scenario |
-| [[versus]] | David-versus-Goliath scenario |
-| [[locals]] | Bordeaux locals |
+| 知识点               | 文中出现                             |
+| ----------------- | -------------------------------- |
+| [[common across]] | common across the globe          |
+| [[enormous]]      | The enormous fire                |
+| [[residents]]     | 17,000 residents were evacuated  |
+| [[evacuation]]    | residents were evacuated         |
+| [[unsettling]]    | unsettling resemblance           |
+| [[resemblance]]   | unsettling resemblance           |
+| [[pandemic]]      | Covid-19 pandemic                |
+| [[federation]]    | National Firefighters Federation |
+| [[intense]]       | intense heat                     |
+| [[dubbed]]        | NASA dubbed these                |
+| [[blaze]]         | how the blaze will spread        |
+| [[scenario]]      | a David-versus-Goliath scenario  |
+| [[versus]]        | David-versus-Goliath scenario    |
+| [[locals]]        | Bordeaux locals                  |
