@@ -126,4 +126,5 @@ for position, name in enumerate(names, start=1):
 
 ## 相关笔记
 
+- [[可迭代对象与迭代器]]
 - [[JavaScript 退出循环的方法]]

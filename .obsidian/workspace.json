@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/py/for循环.md",
+                "file": "计算机/py/可迭代对象与迭代器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "for循环"
+              "title": "可迭代对象与迭代器"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -186,8 +188,9 @@
   },
   "active": "aa72d85dd1a424d7",
   "lastOpenFiles": [
-    "readings/Two Russian men jailed in Angola.md",
     "计算机/py/for循环.md",
+    "计算机/py/可迭代对象与迭代器.md",
+    "readings/Two Russian men jailed in Angola.md",
     "readings/France wildfires — Bordeaux faces evacuation.md",
     "words/residents.md",
     "words/versus.md",
@@ -212,7 +215,6 @@
     "计算机/环境变量.md",
     "认知/起步.md",
     "计算机/py",
-    "认知/个人商业模式.md",
     "assets/Pasted image 20260723135105.png",
     "readings",
     "assets/Pasted image 20260723171343.png",
