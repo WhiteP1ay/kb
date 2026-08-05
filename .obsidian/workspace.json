@@ -11,10 +11,14 @@
             "id": "19a32fec09e2b905",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "readings/France wildfires — Bordeaux faces evacuation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "France wildfires — Bordeaux faces evacuation"
             }
           }
         ]
@@ -182,8 +186,16 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "857b4768aa441ff9",
+  "active": "19a32fec09e2b905",
   "lastOpenFiles": [
+    "readings/eating-less-protein-could-help-you-live-longer.md",
+    "words/amino acids.md",
+    "readings/Two Russian men jailed in Angola.md",
+    "佛学/咒语/往生咒.md",
+    "计算机/py/pyproject.toml.md",
+    "计算机/py/pyenv.md",
+    "计算机/py/模式匹配.md",
+    "计算机/py/解释器.md",
     "words/high-profile visit.md",
     "words/euro.md",
     "words/institution.md",
@@ -196,20 +208,12 @@
     "readings/France wildfires — Bordeaux faces evacuation.md",
     "计算机/py/可迭代对象与迭代器.md",
     "计算机/py/for循环.md",
-    "readings/Two Russian men jailed in Angola.md",
     "words/residents.md",
     "words/versus.md",
     "words/locals.md",
     "words/scenario.md",
     "words/blaze.md",
     "words/dubbed.md",
-    "words/intense.md",
-    "words/federation.md",
-    "words/pandemic.md",
-    "words/resemblance.md",
-    "words/unsettling.md",
-    "words/enormous.md",
-    "words/common across.md",
     "计算机/py",
     "assets/Pasted image 20260723135105.png",
     "readings",
