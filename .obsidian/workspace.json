@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readings/France wildfires — Bordeaux faces evacuation.md",
+                "file": "计算机/py/成员检查与链式比较.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "France wildfires — Bordeaux faces evacuation"
+              "title": "成员检查与链式比较"
             }
           }
         ]
@@ -186,8 +186,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "a5a52718c1f82ec5",
+  "active": "19a32fec09e2b905",
   "lastOpenFiles": [
+    "计算机/py/类和对象.md",
+    "计算机/py/函数.md",
+    "readings/France wildfires — Bordeaux faces evacuation.md",
     "words/abandonment.md",
     "words/exotic.md",
     "words/underscore.md",
@@ -211,9 +214,6 @@
     "计算机/py/pyproject.toml.md",
     "计算机/py/pyenv.md",
     "计算机/py/模式匹配.md",
-    "计算机/py/解释器.md",
-    "words/high-profile visit.md",
-    "words/euro.md",
     "计算机/py",
     "assets/Pasted image 20260723135105.png",
     "readings",
