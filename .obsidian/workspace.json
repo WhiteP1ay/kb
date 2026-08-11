@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/py/成员检查与链式比较.md",
+                "file": "佛学/净业三福.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "成员检查与链式比较"
+              "title": "净业三福"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "19a32fec09e2b905",
   "lastOpenFiles": [
+    "计算机/py/成员检查与链式比较.md",
     "计算机/py/类和对象.md",
     "计算机/py/函数.md",
     "readings/France wildfires — Bordeaux faces evacuation.md",
@@ -213,7 +214,6 @@
     "佛学/咒语/往生咒.md",
     "计算机/py/pyproject.toml.md",
     "计算机/py/pyenv.md",
-    "计算机/py/模式匹配.md",
     "计算机/py",
     "assets/Pasted image 20260723135105.png",
     "readings",
