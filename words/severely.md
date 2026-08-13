@@ -29,4 +29,4 @@ seriously, gravely, critically, drastically
 
 ## 相关单词
 
-- [[European children are not strong anymore – level 3]]（范文）
+- [[european-children-not-strong]]（范文）

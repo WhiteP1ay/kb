@@ -29,4 +29,4 @@ furry（毛茸茸的，毛皮覆盖的）, fuzzy（绒毛状的，模糊的）, 
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

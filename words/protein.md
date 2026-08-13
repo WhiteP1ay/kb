@@ -30,4 +30,4 @@ amino acid compound, polypeptide（生化语境）
 ## 相关单词
 
 - [[dairy products]]（短语）
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

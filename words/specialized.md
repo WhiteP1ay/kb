@@ -29,4 +29,4 @@ dedicated（专用的）, expert（专业的）, niche（小众专业的）
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

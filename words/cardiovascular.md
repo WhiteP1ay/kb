@@ -31,4 +31,4 @@ heart and blood vessel（描述性说法，非单个同义词）
 
 - [[diabetes]]
 - [[potentially]]
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

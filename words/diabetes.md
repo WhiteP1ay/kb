@@ -31,4 +31,4 @@ source: Eating less protein could help you live longer
 
 - [[cardiovascular]]
 - [[potentially]]
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

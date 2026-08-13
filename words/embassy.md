@@ -26,4 +26,4 @@ created: 2026-07-25
 
 - ambassador（n. 大使）、consulate（n. 领事馆）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

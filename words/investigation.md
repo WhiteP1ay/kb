@@ -27,4 +27,4 @@ in-（进入）+ vestig（足迹/痕迹）+ -ation → 顺着痕迹追查 → �
 - investigate（v. 调查）、investigator（n. 调查员）
 - 常见搭配：**launch an investigation**（展开调查）、**under investigation**（正在接受调查）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

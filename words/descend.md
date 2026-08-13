@@ -35,4 +35,4 @@ de-（向下）+ scend（爬）→ 向下爬 → 下降。和 ascend（上升）
 
 - ascend（上升）、descendant（后代——往下传的人）、descent（下降；血统）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

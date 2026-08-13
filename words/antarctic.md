@@ -31,4 +31,4 @@ south-polar, austral
 ## 相关单词
 
 - [[arctic]]
-- [[Scientists in Norway must work fast]]（范文）
+- [[scientists-in-norway-must-work-fast]]（范文）

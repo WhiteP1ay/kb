@@ -30,4 +30,4 @@ bug (口语)
 ## 相关单词
 
 - [[arachnid]]
-- [[Tick bites are on the rise around the world]]（范文）
+- [[tick-bites-are-on-the-rise-around-the-world]]（范文）

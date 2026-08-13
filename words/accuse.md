@@ -34,4 +34,4 @@ ac-（朝向）+ cuse（原因/诉讼）→ 冲着某人提起诉讼 → 指控�
 - accusation（n. 指控）、the accused（被告）
 - 常见搭配：**accuse someone of something**（注意介词是 of，不是 for）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

@@ -28,4 +28,4 @@ con-（一起）+ gress（走）→ 走到一起开会 → 国会/代表大会�
 - congressman / congresswoman（n. 国会议员）
 - parliament（n. 议会——英国用）、senate（n. 参议院）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

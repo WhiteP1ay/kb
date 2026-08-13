@@ -30,4 +30,4 @@ bush, hedge（树篱）
 ## 相关单词
 
 - [[institution]]
-- [[They Painted Bushes Green]]（范文）
+- [[they-painted-bushes-green]]（范文）

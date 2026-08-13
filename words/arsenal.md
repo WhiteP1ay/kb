@@ -30,4 +30,4 @@ armory, stockpile, cache, repertoire, collection
 ## 相关单词
 
 - [[compound]]
-- [[Deadly Flowers Could Help Create New Medicines]]（范文）
+- [[poisonous-plants-new-medicines]]（范文）

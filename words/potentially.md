@@ -31,4 +31,4 @@ possibly, maybe, conceivably
 
 - [[diabetes]]
 - [[cardiovascular]]
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

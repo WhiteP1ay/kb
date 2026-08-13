@@ -34,4 +34,4 @@ created: 2026-07-25
 - [[riot]] — loot 和 riot 经常成对出现
 - looter（n. 抢劫者）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

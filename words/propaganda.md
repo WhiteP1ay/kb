@@ -28,4 +28,4 @@ created: 2026-07-25
 - brainwash（v. 洗脑）
 - state media（官媒——中性词）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

@@ -33,4 +33,4 @@ created: 2026-07-25
 
 - 常见搭配：**price hike**（价格上涨）、**tax hike**（增税）、**rate hike**（利率上调）、**go on a hike**（去徒步）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

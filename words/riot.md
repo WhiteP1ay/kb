@@ -33,4 +33,4 @@ created: 2026-07-25
 - [[loot]] — riot 经常和 looting 一起出现（暴乱+抢劫）
 - [[strike]] — 范文里 strike → descend into → riot
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

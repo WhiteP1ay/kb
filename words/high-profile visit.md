@@ -28,4 +28,4 @@ source: They Painted Bushes Green
 
 ## 相关单词
 
-- [[They Painted Bushes Green]]（范文）
+- [[they-painted-bushes-green]]（范文）

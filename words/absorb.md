@@ -32,4 +32,4 @@ ab-（离开）+ sorb（吸）→ 吸走 → 吸收。海绵吸水是 absorb，�
 
 - absorption（n. 吸收）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

@@ -29,4 +29,4 @@ sus-（下）+ pend（挂）→ 挂起来 → 暂停，悬挂。suspended senten
 - pending（adj. 待处理的）
 - [[sentence]]（n. 判刑——suspended sentence = 缓刑）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

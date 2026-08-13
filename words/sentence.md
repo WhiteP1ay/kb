@@ -36,4 +36,4 @@ created: 2026-07-25
 - [[consist]] — 同词根 sent-
 - 常见搭配：**death sentence**（死刑）、**life sentence**（无期徒刑）、**suspended sentence**（缓刑）、**serve a sentence**（服刑）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

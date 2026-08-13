@@ -38,4 +38,4 @@ opposition party = 反对党（在野党），和 ruling party（执政党）对
 - oppose（v. 反对）、opposite（adj. 相反的）、opponent（n. 对手）
 - 常见搭配：**opposition party**（反对党）、**in opposition to**（反对…）、**face opposition**（面临反对）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

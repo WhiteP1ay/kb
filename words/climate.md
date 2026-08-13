@@ -31,4 +31,4 @@ atmosphere, environment, conditions
 
 ## 相关单词
 
-- [[Tick bites are on the rise around the world]]（范文）
+- [[tick-bites-are-on-the-rise-around-the-world]]（范文）

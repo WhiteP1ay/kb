@@ -29,4 +29,4 @@ inspect（检查）, scrutinize（仔细审查）, investigate（调查）, chec
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

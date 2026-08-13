@@ -26,4 +26,4 @@ neighbour（邻居）+ -ing → 像邻居一样挨着的 → 邻近的。neighbo
 
 - neighbour（n. 邻居）、neighbourhood（n. 街区/邻里）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

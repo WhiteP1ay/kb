@@ -29,4 +29,4 @@ named, called, nicknamed, christened, labeled
 
 ## 相关单词
 
-- [[France wildfires — Bordeaux faces evacuation]]（范文）
+- [[france-wildfires-bordeaux-faces-evacuation]]（范文）

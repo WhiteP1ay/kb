@@ -30,4 +30,4 @@ merc-（报酬/交易）+ -enary → 为报酬做事的人 → 雇佣兵。同�
 - Wagner Group（瓦格纳集团——俄罗斯最有名的私营雇佣兵组织）
 - [[regime]] — 雇佣兵常被政权（regime）雇佣来维稳
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

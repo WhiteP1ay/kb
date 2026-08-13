@@ -28,4 +28,4 @@ de-（向下/离开）+ tent（保持）+ -ion → 被扣住不让走 → 拘留
 - prison / jail（n. 监狱——服刑的地方，和 detention 不同）
 - [[appeal]] — remain in detention while the appeal is processed
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

@@ -27,4 +27,4 @@ prosecute（起诉）+ -or（人）→ 起诉人 → 检察官。和 persecute�
 - prosecute（v. 起诉）、prosecution（n. 起诉；检方）
 - defendant（被告）—— 检察官的对立面
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

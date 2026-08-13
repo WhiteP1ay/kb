@@ -30,4 +30,4 @@ e-（出来）+ merge（沉入）→ 从沉没中出来 → 浮现，出现。�
 - emergency（n. 紧急情况）
 - 常见搭配：**emerge from**（从……产生/出现）、**it emerged that**（事实表明……）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

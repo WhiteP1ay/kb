@@ -29,4 +29,4 @@ move（移动）, transfer（转移）, displace（迁移）
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

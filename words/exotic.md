@@ -29,4 +29,4 @@ foreign（外国的）, alien（外来的）, unusual（不寻常的）, tropica
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

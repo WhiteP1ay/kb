@@ -35,4 +35,4 @@ milit-（士兵/战斗）+ -ary → 军队的。army 和 military 的区别：ar
 - army / navy / air force（陆/海/空三军）
 - [[mercenary]] — military 是国家军队，mercenary 是私人雇佣的
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

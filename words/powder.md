@@ -30,4 +30,4 @@ dust, fine particles
 ## 相关单词
 
 - [[protein]]
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

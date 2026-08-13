@@ -28,4 +28,4 @@ created: 2026-07-25
 - left wing（n. 左翼）、right wing（n. 右翼）
 - [[movement]] — 政治运动
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

@@ -29,4 +29,4 @@ desertion（遗弃）, neglect（忽视/遗弃）, relinquishment（放弃）
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

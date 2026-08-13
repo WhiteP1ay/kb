@@ -29,4 +29,4 @@ created: 2026-07-25
 - [[junta]]（n. 军政府——政变后常见的统治形式）、[[regime]]（政权）
 - 常见搭配：**military coup**（军事政变）、**stage a coup**（发动政变）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

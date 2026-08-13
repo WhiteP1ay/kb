@@ -31,4 +31,4 @@ Slovakian（同义，但 Slovak 更常用）
 ## 相关单词
 
 - [[non-partisanship]]
-- [[They Painted Bushes Green]]（范文）
+- [[they-painted-bushes-green]]（范文）

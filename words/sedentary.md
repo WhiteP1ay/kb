@@ -30,4 +30,4 @@ inactive, seated, desk-bound
 ## 相关单词
 
 - [[longevity]]
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

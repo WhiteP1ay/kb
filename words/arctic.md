@@ -31,4 +31,4 @@ polar, frigid, freezing
 ## 相关单词
 
 - [[antarctic]]
-- [[Scientists in Norway must work fast]]（范文）
+- [[scientists-in-norway-must-work-fast]]（范文）

@@ -35,4 +35,4 @@ created: 2026-07-25
 
 - 常见搭配：**official figures**（官方数据）、**figure out**（搞懂）、**public figure**（公众人物）、**six-figure salary**（六位数薪资）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

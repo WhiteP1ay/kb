@@ -21,13 +21,13 @@ Difficult words: indicator (a sign or measurement that shows the condition or st
 
 | 知识点 | 文中出现 |
 |--------|----------|
-| [[steepest decline]] | flexibility has experienced the steepest decline |
+| [[steepest-decline]] | flexibility has experienced the steepest decline |
 | [[overall]] | overall body composition |
 | [[indicator]] | key health indicators |
 | [[composition]] | overall body composition |
 | [[accelerate]] | accelerated sharply after 2000 |
-| [[physical inactivity]] | physical inactivity severely threatens |
+| [[physical-inactivity]] | physical inactivity severely threatens |
 | [[severely]] | severely threatens future well-being |
 | [[well-being]] | future well-being |
-| [[fail to meet]] | fail to meet the WHO's recommendation |
+| [[fail-to-meet]] | fail to meet the WHO's recommendation |
 | [[adolescent]] | European adolescents |

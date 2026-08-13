@@ -29,4 +29,4 @@ mandible（下颚骨，医学术语）, maxilla（上颚骨）, muzzle（动物�
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

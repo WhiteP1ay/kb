@@ -28,4 +28,4 @@ move（移动）+ -ment（名词后缀）→ 移动 → 引申为"社会运动"�
 - move（v. 移动）
 - 常见搭配：**political movement**（政治运动）、**labor movement**（工人运动）、**women's movement**（妇女运动）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

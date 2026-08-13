@@ -29,4 +29,4 @@ scarcity（稀缺）, uncommonness（不常见）
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

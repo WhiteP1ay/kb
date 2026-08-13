@@ -30,4 +30,4 @@ lifespan, long life, durability
 ## 相关单词
 
 - [[sedentary]]
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

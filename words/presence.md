@@ -28,4 +28,4 @@ present（在场的）+ -ence（名词后缀）→ 在场 → 存在。政治军
 - present（adj. 在场的）、absent（adj. 缺席的——反义词）
 - 常见搭配：**military presence**（军事存在）、**online presence**（网络存在/影响力）、**in the presence of**（在……面前）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

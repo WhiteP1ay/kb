@@ -29,4 +29,4 @@ prickly（多刺的）, thorny（多刺的，棘手的）, spiny（带刺的）,
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

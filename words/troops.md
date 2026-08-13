@@ -27,4 +27,4 @@ troop 单数指"一群/一队"，troops 复数就是"部队/士兵"。和 army �
 - [[military]]（n. 军方——统称）、army（n. 陆军）
 - deploy（v. 部署）、troop carrier（运兵车）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

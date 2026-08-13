@@ -34,4 +34,4 @@ result, outcome, effect, repercussion
 ## 相关单词
 
 - [[consume]]
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

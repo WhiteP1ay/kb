@@ -27,4 +27,4 @@ created: 2026-07-25
 - [[regime]]（政权——更宽泛）、[[military]]（军队）
 - coup（n. 政变——junta 上台的方式）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

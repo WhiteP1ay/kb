@@ -27,7 +27,7 @@ ac-（朝向）+ quit（自由/释放）→ 让某人自由 → 宣判无罪。�
 - acquittal（n. 无罪判决）
 - [[sentence]]（v. 判刑——和 acquit 相反）、[[accuse]]（v. 指控——acquit 是被指控后无罪释放）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）
 ## 陷阱
 
 不要和 acquire（获得）搞混——拼写差一个 r，意思完全不同。

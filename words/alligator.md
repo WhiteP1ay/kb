@@ -30,4 +30,4 @@ crocodile（鳄鱼，吻部V形尖长）, caiman（凯门鳄，中小型）, gat
 ## 相关单词
 
 - [[snapping turtle]]
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

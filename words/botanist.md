@@ -30,4 +30,4 @@ phytologist（植物学者）, plant scientist
 ## 相关单词
 
 - [[flora]]
-- [[Deadly Flowers Could Help Create New Medicines]]（范文）
+- [[poisonous-plants-new-medicines]]（范文）

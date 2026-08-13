@@ -28,4 +28,4 @@ created: 2026-07-25
 - intelligent（adj. 聪明的）、artificial intelligence（人工智能）
 - 常见搭配：**intelligence agency**（情报机构）、**CIA**（Central Intelligence Agency，美国中央情报局）、**MI6**（英国军情六处）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

@@ -33,4 +33,4 @@ in-（进入）+ flu（流）+ -ence → 流进去 → 潜移默化的影响。�
 
 - influential（adj. 有影响力的）、influencer（网红/意见领袖——影响别人的人）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

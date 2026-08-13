@@ -30,4 +30,4 @@ impartiality, neutrality, objectivity
 ## 相关单词
 
 - [[Slovak]]
-- [[They Painted Bushes Green]]（范文）
+- [[they-painted-bushes-green]]（范文）

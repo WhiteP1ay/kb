@@ -30,4 +30,4 @@ ap-（朝向）+ peal（呼唤）→ 向更高处呼喊 → 上诉（向上一�
 - [[sentence]]（判决——appeal against a sentence = 对判刑上诉）、[[acquit]]（无罪释放——被判无罪的一方不需要上诉）
 - 常见搭配：**appeal against**（对……上诉）、**appeal to**（吸引；呼吁）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

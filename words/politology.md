@@ -27,4 +27,4 @@ polit-（政治）+ -ology（学科）→ 政治学。常见同义词是 politic
 - political science（政治学——通用说法）
 - politics（n. 政治）、[[propaganda]]（宣传）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

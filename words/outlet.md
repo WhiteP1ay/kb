@@ -28,4 +28,4 @@ out（出去）+ let（让）→ 让东西出去的地方 → 出口。media out
 - outlet mall（奥特莱斯——你肯定逛过，就是折扣商场）
 - 常见搭配：**media outlet**（媒体机构）、**news outlet**（新闻媒体）、**retail outlet**（零售店）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

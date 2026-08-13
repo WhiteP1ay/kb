@@ -30,4 +30,4 @@ curative, healing, remedial, medicinal
 ## 相关单词
 
 - [[therapy]]
-- [[Deadly Flowers Could Help Create New Medicines]]（范文）
+- [[poisonous-plants-new-medicines]]（范文）

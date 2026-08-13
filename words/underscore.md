@@ -29,4 +29,4 @@ emphasize（强调）, highlight（突出）, underline（强调/下划线）
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

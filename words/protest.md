@@ -29,4 +29,4 @@ pro-（向前）+ test（作证）→ 站出来作证 → 公开表示反对 →
 - protester（n. 抗议者，示威者）
 - 常见搭配：**protest against**（抗议某事）、**peaceful protest**（和平抗议）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

@@ -28,4 +28,4 @@ dis-（否定/相反）+ information（信息）→ 和真实信息相反 → �
 - [[propaganda]] — disinformation 是 propaganda 的手段之一
 - fake news（假新闻——口语说法）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

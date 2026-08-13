@@ -30,4 +30,4 @@ created: 2026-07-25
 
 ## 相关
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

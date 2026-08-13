@@ -29,4 +29,4 @@ EUR（货币代码，非严格同义）
 
 ## 相关单词
 
-- [[They Painted Bushes Green]]（范文）
+- [[they-painted-bushes-green]]（范文）

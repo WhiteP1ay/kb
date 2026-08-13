@@ -33,4 +33,4 @@ respective（各自的）+ -ly（副词后缀）。核心功能是"对号入座"
 
 - respective (adj.) — 各自的，对应的
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

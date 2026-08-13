@@ -30,4 +30,4 @@ organization, establishment, tradition
 ## 相关单词
 
 - [[shrub]]
-- [[They Painted Bushes Green]]（范文）
+- [[they-painted-bushes-green]]（范文）

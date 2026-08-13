@@ -29,4 +29,4 @@ ferocious（极凶猛的）, savage（野蛮的）, violent（暴力的）, inte
 
 ## 相关单词
 
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

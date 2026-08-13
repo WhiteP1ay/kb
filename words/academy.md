@@ -30,4 +30,4 @@ institute, institution, college, school
 ## 相关单词
 
 - [[Czech]]
-- [[Deadly Flowers Could Help Create New Medicines]]（范文）
+- [[poisonous-plants-new-medicines]]（范文）

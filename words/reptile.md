@@ -30,4 +30,4 @@ source: Breaking News English - Fluffy the alligator snapping turtle
 ## 相关单词
 
 - [[alligator]]
-- [[Fluffy the alligator snapping turtle]]（范文）
+- [[fluffy-the-alligator-snapping-turtle]]（范文）

@@ -32,4 +32,4 @@ e-（出来）+ lect（选）+ -ion → 选出来 → 选举。同词根：selec
 - elect（v. 选举）、electoral（adj. 选举的）
 - 常见搭配：**presidential election**（总统选举）、**general election**（大选）、**election campaign**（竞选活动）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

@@ -35,4 +35,4 @@ consume 和 consider（考虑）长得像但完全不同。文中 "consuming the
 
 - [[consequence]]
 - [[protein]]
-- [[Eating less protein could help you live longer]]（范文）
+- [[eating-less-protein-could-help-you-live-longer]]（范文）

@@ -32,4 +32,4 @@ ex-（超出）+ cess（走）+ -ive（形容词后缀）→ 走过头了 → �
 - excess（n. 过量）、exceed（v. 超过）
 - 常见搭配：**excessive force**（过度武力）、**excessive use**（过度使用）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）

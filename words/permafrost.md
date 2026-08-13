@@ -31,4 +31,4 @@ frozen ground, gelisol（专业术语）
 
 - [[archipelago]]
 - [[implication]]
-- [[Scientists in Norway must work fast]]（范文）
+- [[scientists-in-norway-must-work-fast]]（范文）

@@ -34,4 +34,4 @@ created: 2026-07-25
 
 - 常见搭配：**go on strike**（罢工）、**hunger strike**（绝食抗议）、**air strike**（空袭）、**lightning strike**（闪电罢工/雷击）
 
-- [[Two Russian men jailed in Angola]]（范文）
+- [[two-russian-men-jailed-in-angola]]（范文）
