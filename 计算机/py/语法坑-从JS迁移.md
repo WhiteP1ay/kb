@@ -34,6 +34,12 @@ f"¥{x}"         # ≈ `¥${x}`
 f"{x:.2f}"      # 保留两位小数
 ```
 
+- **三元表达式**：`cond ? A : B` → `A if cond else B`（条件放中间，结果 A 在前）
+
+```python
+x = 1000 if unit == "ms" else 1   # JS: const x = unit === "ms" ? 1000 : 1
+```
+
 - **`NotImplemented` ≠ `NotImplementedError`**
 
 ```python
