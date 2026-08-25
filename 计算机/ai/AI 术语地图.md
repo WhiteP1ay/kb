@@ -18,7 +18,7 @@ LLM 的本质是「下一个 token 预测器」：喂一段文本，输出下一
 [[Pre-training]]（通识教育）→ [[Fine-tune]]（定向培训，改权重）
 
 层三 · 怎么用
-[[Prompt]]（输入）｜ [[Training vs Inference]]（训练 vs 推理）｜ [[Context Window]]（视野）｜ [[Temperature]]（随机性旋钮）
+[[推理流水线]]（tokenize→forward→采样→解码）｜ [[Prompt]]（输入）｜ [[Training vs Inference]]（训练 vs 推理）｜ [[Context Window]]（视野）｜ [[Temperature]]（随机性旋钮）
 
 层四 · 补 LLM 三大缺陷
 [[RAG]] 治「不知道」｜ [[Function Calling]] 治「只会说不会做」｜ [[Agent]] 治「要拆多步做决策」
