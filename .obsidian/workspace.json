@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/py/类的继承.md",
+                "file": "计算机/sql/SELECT查询骨架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "类的继承"
+              "title": "SELECT查询骨架"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#短语",
+                "query": "distin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,34 +186,34 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "86406aaecf48f757",
+  "active": "857b4768aa441ff9",
   "lastOpenFiles": [
+    "计算机/sql/SERIAL与IDENTITY.md",
+    "计算机/sql/SQL约束全景.md",
+    "计算机/sql/psycopg事务与commit.md",
+    "计算机/sql/NUMERIC精确小数.md",
+    "计算机/sql/SQL联表查询.md",
+    "计算机/sql/外键与ON-DELETE.md",
+    "计算机/fe/双等号判断规则.md",
+    "words/excessive.md",
+    "words/astronomer.md",
+    "words/compound.md",
+    "words/wing.md",
+    "计算机/py/str与repr.md",
+    "佛学/净业三福.md",
+    "佛学/咒语/准提咒.md",
+    "佛学/咒语/往生咒.md",
+    "计算机/py/成员检查与链式比较.md",
+    "计算机/py/uv.md",
+    "计算机/py/pyenv.md",
+    "计算机/py/类的继承.md",
     "计算机/py/集合推导式.md",
     "计算机/py/解释器.md",
     "计算机/py/函数.md",
     "计算机/py/对象销毁与垃圾回收.md",
     "计算机/py/对象创建两阶段.md",
     "计算机/py/单例模式.md",
-    "计算机/py/成员检查与链式比较.md",
     "计算机/py/乘方与异或.md",
-    "计算机/环境变量.md",
-    "计算机/sql/mysql启动与停止.md",
-    "计算机/fe/移动端安全区域safe-area.md",
-    "words/exemption.md",
-    "words/authority.md",
-    "搞钱/闲鱼/销售漏斗.md",
-    "佛学/五盖.md",
-    "佛学/五方佛.md",
-    "佛学/四弘誓愿.md",
-    "佛学/十善业.md",
-    "佛学/观经-是心作佛.md",
-    "佛学/咒语/往生咒.md",
-    "搞钱/基金卖出时机.md",
-    "计算机/http/浏览器Token存储.md",
-    "计算机/fe/call-apply-bind.md",
-    "计算机/fe/层叠上下文.md",
-    "计算机/fe/半透明.md",
-    "计算机/fe/百分比尺寸.md",
     "计算机/py",
     "assets/Pasted image 20260723135105.png",
     "readings",

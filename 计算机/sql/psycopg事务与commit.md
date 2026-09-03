@@ -25,6 +25,7 @@ conn.close()
 ## 关键点
 
 - 与前端 state 的本质差异：setState 即时生效，数据库必须 commit 才生效，不提交等于没干
+- 三通道提交行为对照（2026-09-03 db-4 实测）：DBeaver GUI autocommit ON（工具栏 Auto 亮起）每条语句立即落库；psql 同样默认自动提交；**psycopg 默认 False 必须显式 commit**——写代码时别拿 GUI 直觉套 psycopg
 - 一次 commit 提交连接上所有未提交的变更（一个事务）
 - 参数化 `%s` 是必须的，别用 f-string 拼 SQL（SQL 注入）
 

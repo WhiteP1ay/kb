@@ -36,6 +36,7 @@ CREATE TABLE products (id INT AUTO_INCREMENT PRIMARY KEY, ...);
 ## 陷阱
 
 - 自增值不随删除回退：删了 id=3，下一个还是 4，别指望它连续
+- **别手填 id**：显式 `insert into t (id, ...) values (10, ...)` 后序列 nextval 落后，下一条自动 id 撞主键报 duplicate key。修序列用 `setval('t_id_seq', max(id))`
 - 重跑建表脚本会 `DuplicateTable`（见 [[psycopg事务与commit]] 的幂等性教训）
 
 ## 相关笔记
