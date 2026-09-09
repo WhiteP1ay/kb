@@ -39,8 +39,20 @@ uv.lock：记录解析后的精确依赖图
 
 `pyproject.toml` 和 `uv.lock` 应该提交到 Git；`.venv` 可以随时重建，通常不提交。
 
+
+## 打包与发布
+
+```bash
+uv build                                 # 产出 dist/ 下 sdist + wheel
+uv publish                               # 上传 dist/* 到 PyPI（需 UV_PUBLISH_TOKEN）
+uv publish --publish-url https://test.pypi.org/legacy/   # TestPyPI 演练场
+```
+
+发布纪律：PyPI 包名全局唯一、小写、连字符规范化；正式发前先 TestPyPI 演练；版本号只增不减。
+
 ## 相关笔记
 
 - [[解释器]]
 - [[虚拟环境]]
 - [[pyproject.toml]]
+- [[wheel]]
