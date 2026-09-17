@@ -13,9 +13,11 @@ SQL 查询的固定子句顺序，对应 JS 的链式数组操作：
 ```sql
 select 列名             -- 投影：要哪些列（* = 全部）
 from 表名
-where 条件             -- 过滤行：and/or 组合比较条件
+where 条件              -- 过滤行：and/or 组合比较条件
+group by 分组键         -- 分组：把行按键分堆
+having 条件             -- 过滤组：筛聚合后的结果
 order by 列 [asc|desc]  -- 排序：asc 升序（默认），desc 降序
-limit 数字;            -- 截断：取前 N 行
+limit 数字;             -- 截断：取前 N 行
 ```
 
 ## 怎么用
@@ -28,7 +30,9 @@ limit 数字;            -- 截断：取前 N 行
 
 ## 关键点
 
-- 子句顺序是铁律：where → order by → limit，不能调换
+- 子句顺序是铁律，不能调换：`where → group by → having → order by → limit`
+- **顺序背后是执行顺序**：where 在分组前筛行，having 在分组后筛组，所以聚合函数只能出现在 having 里（详见 [[HAVING与WHERE]]）
+- 不带 `group by` 时整张表当成一组，`select sum(quantity) from order_items` 出一行
 - `and`/`or` 是 where 内部的逻辑运算符，不能用来连接子句
 - 日期查月份用半开区间：`created_at >= '2026-08-01' and created_at < '2026-09-01'`，`>` 会漏掉月初零点
 - `limit` 在排序之后截断：先 order by 排好，再切前 N 行
@@ -37,8 +41,8 @@ limit 数字;            -- 截断：取前 N 行
 
 - 不是 `sort by`！SQL 是 `order by 列名`，desc 不能裸奔（JS `.sort()` 的肌肉记忆）
 - `between` 是闭区间，含两端：`rating between 1 and 5` 允许 1 和 5
-- 少读一个 where 条件 = 交错答案：写完对照需求逐条核对
+- 少读一个 where 条件 = 交错答案：写完对照需求逐条核对（见 [[SQL落地核对清单]]）
 
 ## 相关笔记
 
-[[NULL三值逻辑]] · [[timestamptz时间戳]] · [[SQL约束全景]]
+[[GROUP-BY分组聚合]] · [[HAVING与WHERE]] · [[聚合函数]] · [[SQL落地核对清单]] · [[NULL三值逻辑]] · [[timestamptz时间戳]] · [[SQL约束全景]]
