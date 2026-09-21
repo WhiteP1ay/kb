@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机/py/ABC抽象基类.md",
+                "file": "【面试】前端面试考点整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABC抽象基类"
+              "title": "【面试】前端面试考点整理"
             }
           }
         ]
@@ -186,13 +186,24 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1328e077f232cf46",
+  "active": "857b4768aa441ff9",
   "lastOpenFiles": [
-    "计算机/py/单例模式.md",
-    "计算机/py/__init__.py与re-export.md",
-    "计算机/py/__all__名字清单.md",
+    "fastapi/FastAPI参数推导规则.md",
+    "py/uv.md",
+    "py/对象创建两阶段.md",
+    "py/对象销毁与垃圾回收.md",
+    "py/__all__名字清单.md",
+    "py/函数.md",
+    "fastapi/FastAPI自动化测试.md",
+    "fastapi/Pydantic与响应模型.md",
+    "fastapi/FastAPI与Uvicorn.md",
+    "fastapi",
+    "py/列表推导式.md",
+    "py/ABC抽象基类.md",
+    "py/单例模式.md",
+    "py/__init__.py与re-export.md",
     "佛学/一心开二门.md",
-    "计算机/py/事件循环与async.md",
+    "py/事件循环与async.md",
     "佛学/五盖.md",
     "佛学/五方佛.md",
     "佛学/四弘誓愿.md",
@@ -200,21 +211,11 @@
     "搞钱/私域核心纪律.md",
     "搞钱/私域定义.md",
     "搞钱/内容写给算法.md",
-    "计算机/ai/推理流水线.md",
+    "ai/推理流水线.md",
     "计算机/ai/反思模式.md",
-    "计算机/py/wheel.md",
+    "py/wheel.md",
     "佛学/咒语/孔雀明王咒.md",
-    "计算机/py/相对导入与python-m.md",
-    "计算机/py/__name__双身份.md",
-    "认知/个人商业模式.md",
-    "认知/复利.md",
-    "佛学/净业三福.md",
-    "佛学/菩提心.md",
-    "佛学/华严经名句.md",
-    "计算机/sql/SQL引号与大小写.md",
-    "计算机/sql/PostgreSQL角色模型.md",
-    "计算机/sql/NULL三值逻辑.md",
-    "计算机/py",
+    "py",
     "assets/Pasted image 20260723135105.png",
     "readings",
     "assets/Pasted image 20260723171343.png",
@@ -222,10 +223,9 @@
     "words",
     "认知",
     "assets",
-    "计算机/fe",
+    "fe",
     "读书/日本蜡烛图技术",
     "读书/早起的奇迹",
-    "读书/念完哈佛念阿弥陀佛",
     "未命名.canvas"
   ]
 }
