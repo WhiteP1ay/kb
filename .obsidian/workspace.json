@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/CSS-has选择器.md",
+                "file": "react/cache-api.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS-has选择器"
+              "title": "cache-api"
             }
           }
         ],
@@ -203,6 +203,7 @@
   },
   "active": "b985740cb092494a",
   "lastOpenFiles": [
+    "css/CSS-has选择器.md",
     "css/BFC.md",
     "css/最大最小宽高.md",
     "css/移动端安全区域safe-area.md",
@@ -229,7 +230,6 @@
     "browser/进程与线程.md",
     "browser/浏览器进程架构.md",
     "browser/will-change.md",
-    "browser/LCP.md",
     "browser",
     "ts",
     "vue",
