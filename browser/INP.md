@@ -1,9 +1,8 @@
 ---
 tags:
   - 性能
-  - Core Web Vitals
   - 浏览器
-created: "2026-07-02"
+created: 2026-07-02
 ---
 
 # INP（Interaction to Next Paint）交互响应

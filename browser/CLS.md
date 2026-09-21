@@ -1,9 +1,8 @@
 ---
 tags:
   - 性能
-  - Core Web Vitals
   - 浏览器
-created: "2026-07-02"
+created: 2026-07-02
 ---
 
 # CLS（Cumulative Layout Shift）累积布局偏移
