@@ -8,13 +8,13 @@ created: "2026-10-14"
 
 ## 是什么
 
-Java 集合框架（`java.util.*`）是后端数据组织与流转的基础。与 TypeScript 使用原生数组和对象字面量不同，Java 集合严格遵循**面向接口编程**与**泛型类型约束**。
+Java 集合框架（`java.util.*`）是后端数据组织与流转的基础。
 
-| 场景 | TS 结构 | Java 常用接口与具体实现 | 常见操作 |
-| :--- | :--- | :--- | :--- |
-| **有序列表** | `string[]` | `List<String> list = new ArrayList<>();` | `list.add("a");`<br>`list.get(0);`<br>`list.size();` |
+| 场景       | TS 结构                    | Java 常用接口与具体实现                                | 常见操作                                                             |
+| :------- | :----------------------- | :-------------------------------------------- | :--------------------------------------------------------------- |
+| **有序列表** | `string[]`               | `List<String> list = new ArrayList<>();`      | `list.add("a");`<br>`list.get(0);`<br>`list.size();`             |
 | **键值映射** | `Record<string, number>` | `Map<String, Integer> map = new HashMap<>();` | `map.put("k", 1);`<br>`map.get("k");`<br>`map.containsKey("k");` |
-| **去重集合** | `Set<string>` | `Set<String> set = new HashSet<>();` | `set.add("a");`<br>`set.contains("a");` |
+| **去重集合** | `Set<string>`            | `Set<String> set = new HashSet<>();`          | `set.add("a");`<br>`set.contains("a");`                          |
 
 ## 关键点
 
