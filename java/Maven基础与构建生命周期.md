@@ -8,17 +8,19 @@ created: "2026-10-14"
 
 ## 是什么
 
-Maven 是 Java 生态最主流的**项目管理与构建工具**。通过根目录下的 `pom.xml`（Project Object Model），以「约定优于配置」的方式统一管理依赖、插件与编译打包流水线。
+Maven 是 Java 生态最主流的**项目管理与构建工具**。
+根目录下的 `pom.xml`（Project Object Model）是项目描述文件。
 
 ## 关键心智模型（对照前端 package.json）
 
-| 维度 | 前端 (npm / pnpm) | Java (Maven) | 核心规则 |
-| :--- | :--- | :--- | :--- |
-| **项目配置文件** | `package.json` | `pom.xml` | XML 树状结构管理 |
-| **依赖坐标** | `@scope/name@version` | **GAV 坐标**（GroupId, ArtifactId, Version） | `groupId` 是反向组织域名，`artifactId` 是项目名 |
-| **公共中央仓库** | npmjs.org | Maven Central (`repo1.maven.org`) | 下载的 jar 包缓存在本地 `~/.m2/repository` |
-| **依赖环境隔离** | `dependencies` vs `devDependencies` | `<scope>` 作用域标签 | `compile`（默认，打入生产包）；`test`（仅单测）；`provided`（环境自带/编译期工具，不打包） |
-| **环境统一运行器**| `corepack` / `npx` | **`mvnw` (Maven Wrapper)** | 仓库自带脚本，无需全局安装 Maven，自动拉取指定版本构建 |
+| 维度          | 前端 (npm / pnpm)                     | Java (Maven)                             | 核心规则                                                       |
+| :---------- | :---------------------------------- | :--------------------------------------- | :--------------------------------------------------------- |
+| **项目配置文件**  | `package.json`                      | `pom.xml`                                | XML 树状结构管理                                                 |
+| **依赖坐标**    | `@scope/name@version`               | **GAV 坐标**（GroupId, ArtifactId, Version） | `groupId` 是反向组织域名，`artifactId` 是项目名                        |
+| **公共中央仓库**  | npmjs.org                           | Maven Central (`repo1.maven.org`)        | 下载的 jar 包缓存在本地 `~/.m2/repository`                          |
+| **依赖环境隔离**  | `dependencies` vs `devDependencies` | `<scope>` 作用域标签                          | `compile`（默认，打入生产包）；`test`（仅单测）；`provided`（环境自带/编译期工具，不打包） |
+| **环境统一运行器** | `corepack` / `npx`                  | **`mvnw` (Maven Wrapper)**               | 仓库自带脚本，无需全局安装 Maven，自动拉取指定版本构建                             |
+|             |                                     |                                          |                                                            |
 
 ## 标准工程目录结构
 
@@ -47,13 +49,6 @@ Maven 采用**链式生命周期**，后置阶段会自动触发前置阶段：
 - `mvn install`：将 jar 包安装到本地 `~/.m2` 仓库，供本机其他工程引用
 
 > **跳过测试打包**：在紧急构建或无外部测试依赖时，使用 `mvn package -DskipTests`。
-
-## 为什么采用 XML 而非 JSON？
-
-1. **历史背景**：Maven 诞生于 2004 年，彼时 JSON 尚未成为 RFC 标准，XML 是企业级事实标准。
-2. **原生支持注释**：标准 `package.json` 严禁注释，而大型后端工程必须在依赖旁详细记录安全漏洞（CVE）、版本冻结与升级背景。
-3. **XSD Schema 离线强校验**：IDE 借助 XML Namespace 与 Schema，可以在离线状态下对标签层级与拼写做严格的静态校验，提前暴露配置错误。
-4. **与 Gradle 的取舍**：Gradle 改用 Kotlin/Groovy DSL 极大提升了简洁度，但后端生产环境推崇「纯静态声明优于动态图灵完备代码」，因此 Maven 依然占据主流。
 
 ## 相关笔记
 
