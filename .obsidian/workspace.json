@@ -13,30 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css/百分比尺寸.md",
+                "file": "node/process.nextTick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "百分比尺寸"
+              "title": "process.nextTick"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "fa22f5ef3f5ab4b1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b985740cb092494a",
+            "id": "b98d9d98b1156e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/cache-api.md",
+                "file": "py/1. 模块化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cache-api"
+              "title": "1. 模块化"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,35 +206,36 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "b985740cb092494a",
+  "active": "3755d1a66932a404",
   "lastOpenFiles": [
-    "css/CSS-has选择器.md",
-    "css/BFC.md",
-    "css/最大最小宽高.md",
-    "css/移动端安全区域safe-area.md",
-    "css/盒模型.md",
-    "css/层叠上下文.md",
-    "css/包含块.md",
-    "css/半透明.md",
-    "css/百分比尺寸.md",
-    "佛学/观经-是心作佛.md",
-    "ai/Hallucination.md",
-    "browser/INP.md",
-    "browser/渲染流水线.md",
-    "browser/CLS.md",
-    "http/浏览器Token存储.md",
-    "browser/回流与重绘.md",
-    "fe/LCP.md",
-    "node/process.nextTick.md",
     "node/pipeline.md",
+    "py/语法坑-从JS迁移.md",
+    "py/推导式的边界.md",
+    "py/1. 模块化.md",
+    "py/2. 项目初始化.md",
+    "py/相对导入与python-m.md",
+    "py/循环导入.md",
+    "py/虚拟环境.md",
+    "py/import机制.md",
+    "py/pyproject.toml.md",
+    "py/pyenv.md",
+    "py/wheel.md",
+    "py/uv.md",
+    "py/成员检查与链式比较.md",
+    "py/__name__双身份.md",
+    "py/__all__名字清单.md",
+    "py/__init__.py与re-export.md",
+    "css/百分比尺寸.md",
+    "java/Java-Stream流式操作与Lambda.md",
+    "java/Maven基础与构建生命周期.md",
+    "java/Java对象等价性与同一性.md",
+    "java/Java基本类型与包装类型.md",
+    "java/Java常用集合操作.md",
+    "vue/Vue3-defineModel.md",
+    "java",
+    "react/cache-api.md",
+    "css/CSS-has选择器.md",
     "node",
-    "browser/Web-Worker全家桶.md",
-    "browser/requestAnimationFrame.md",
-    "browser/微任务与宏任务.md",
-    "browser/事件循环Event-Loop.md",
-    "browser/进程与线程.md",
-    "browser/浏览器进程架构.md",
-    "browser/will-change.md",
     "browser",
     "ts",
     "vue",
@@ -239,7 +245,6 @@
     "fastapi",
     "py",
     "assets/Pasted image 20260723135105.png",
-    "readings",
     "assets/Pasted image 20260723171343.png",
     "未命名.canvas"
   ]
