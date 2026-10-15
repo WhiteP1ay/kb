@@ -1,0 +1,38 @@
+name: 同步博客文章到服务器
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'blogs/**'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: 同步文章
+    runs-on: ubuntu-latest
+    steps:
+      - name: SSH 连接服务器并同步文章
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          port: ${{ secrets.SERVER_PORT || 22 }}
+          script: |
+            set -e
+            echo "📥 开始拉取知识库最新内容..."
+            if [ ! -d /data/kb/.git ]; then
+              echo "首次部署，clone WhiteP1ay/kb 到 /data/kb..."
+              git clone --depth 1 https://github.com/WhiteP1ay/kb.git /data/kb
+            fi
+            cd /data/kb
+            git fetch origin main
+            git reset --hard origin/main
+
+            echo "🔄 同步 blogs 到博客文章挂载目录 /data/posts..."
+            which rsync >/dev/null 2>&1 || dnf install -y rsync
+            rsync -av --delete --exclude='.git' /data/kb/blogs/ /data/posts/
+
+            echo "✅ 博客文章同步完成 ($(date))"
