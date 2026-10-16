@@ -22,4 +22,4 @@ created: "2026-07-02"
 
 ## 相关笔记
 
-[[微任务与宏任务]] [[requestAnimationFrame]] [[JS计时器精度]]
+[[browser/微任务与宏任务]] [[requestAnimationFrame]] [[JS计时器精度]]

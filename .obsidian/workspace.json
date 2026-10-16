@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/useSyncExternalStore.md",
+                "file": "js/this指向.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useSyncExternalStore"
+              "title": "this指向"
+            }
+          },
+          {
+            "id": "11f3f0ddfc7650ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js/原型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "原型"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 209.7890625
   },
   "right": {
     "id": "8a05a2c32c7c3fa4",
@@ -186,35 +201,35 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "f20dc186eaea556b",
+  "active": "11f3f0ddfc7650ee",
   "lastOpenFiles": [
-    "react/cache-api.md",
-    "java/Maven基础与构建生命周期.md",
-    "node/process.nextTick.md",
-    "node/pipeline.md",
-    "mahāyāna/咒语备忘.md",
-    "mahāyāna/四弘誓愿.md",
-    "mahāyāna/十善业.md",
-    "mahāyāna/经文摘抄.md",
-    "mahāyāna/大悲咒.md",
-    "blogs/单休，工资翻倍我都不去.md",
-    "blogs/程序员“最好的时代”.md",
-    "blogs/tailwind好在哪.md",
-    "【面试】前端面试考点整理.md",
-    "环境变量.md",
-    "java/Java常用集合操作.md",
-    "java/Java-Stream流式操作与Lambda.md",
-    "blogs/软件开发正在变成狗屁职业.md",
-    "blogs/组合凭什么大于继承？.md",
-    "blogs/旗帜鲜明地支持养懒汉.md",
-    "blogs/怎么写好一份skill.md",
-    "blogs/写在2万公里，本田CB400F驾驶体验.md",
-    "blogs/为了干掉前端，我们付出多少努力.md",
-    "blogs/AI时代必做的几件事.md",
-    "blogs/README.md",
+    "js/JS计时器精度.md",
+    "js/原型.md",
+    "js/原型链.md",
+    "js/instanceof原理.md",
+    "js/use-strict严格模式.md",
+    "js/new操作符原理.md",
+    "js/prototype与__proto__.md",
+    "js/this指向.md",
+    "js/WeakMap弱引用.md",
+    "js/微任务与宏任务.md",
+    "js/queueMicrotask.md",
+    "js/Proxy-vs-defineProperty.md",
+    "js/ESM-vs-CommonJS.md",
+    "js/三等号判断规则.md",
+    "js/双等号判断规则.md",
+    "js/Object.is-vs-严格相等.md",
+    "js/JS退出循环的方法.md",
+    "js/IIFE.md",
+    "js/call-apply-bind.md",
+    "js/循环引用检测.md",
+    "js/原型继承与类继承.md",
+    "js/普通函数与箭头函数.md",
+    "js/加号运算符隐式转换.md",
+    "react/useSyncExternalStore.md",
+    "js/对象支持for-of.md",
+    "js/点语法与方括号.md",
     "blogs",
-    "ai/推理流水线.md",
-    "mahāyāna/咒语/准提咒.md",
     "java",
     "node",
     "browser",

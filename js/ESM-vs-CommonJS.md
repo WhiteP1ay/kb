@@ -7,18 +7,11 @@ created: "2026-07-02"
 
 # ESM 与 CommonJS 的区别
 
-## 是什么
-
-CommonJS 同步加载（require），运行时确定，值的拷贝。
-ESM 静态（编译时确定），支持异步加载，值的引用，tree-shaking 友好。
-
-## 关键点
-
 - CJS：require 运行时加载，module.exports 导出，导出值的拷贝
-- ESM：import 编译时静态分析，export 导出，导出值的引用（活绑定）
+- ESM：import 编译时静态分析，export 导出，导出值的引用
 - ESM 支持 tree-shaking（因为静态结构），CJS 不行
 - Node.js 中 .mjs 或 package.json type:"module" 启用 ESM
-- 循环引用：CJS 返回不完整对象，ESM 通过活绑定解决
+- 循环引用：CJS 返回不完整对象（执行到哪，缓存里就存到哪），ESM 通过活绑定解决（例如，循环引用 a 模块尝试导出 aCount 时，则**指向 `a.mjs` 内部 `aCount` 变量的只读引用**，一旦 aCount被初始化，`aCount` **会自动实时同步**变得可用）
 
 ## CommonJS 实现原理（伪代码）
 
@@ -57,12 +50,3 @@ function require(modulePath) {
   return module.exports; // → { d: 4 }
 }
 ```
-
-### 关键结论
-
-- `exports` 是 `module.exports` 的引用，初始指向同一个对象
-- 对 `exports` **重新赋值**（`exports = ...`）会断开引用，`module.exports` 不受影响
-- 对 `exports` **添加属性**（`exports.x = ...`）有效，因为操作的是同一个对象
-- **最终导出的是 `module.exports`**，不是 `exports`
-
-## 相关笔记
