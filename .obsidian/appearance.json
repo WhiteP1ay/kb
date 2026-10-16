@@ -1,4 +1,7 @@
 {
-  "cssTheme": "Minimal",
-  "showViewHeader": false
+  "cssTheme": "AnuPpuccin",
+  "showViewHeader": false,
+  "enabledCssSnippets": [],
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Fira Code"
 }

@@ -1,0 +1,73 @@
+/* ==========================================================================
+   Obsidian 标题层级增强样式 (兼容 Live Preview 与 Reading View)
+   ========================================================================== */
+
+/* 全局标题通用属性：优化间距与字重 */
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6,
+.HyperMD-header-1,
+.HyperMD-header-2,
+.HyperMD-header-3,
+.HyperMD-header-4,
+.HyperMD-header-5,
+.HyperMD-header-6 {
+  letter-spacing: -0.015em;
+}
+
+/* 一级标题 H1 */
+.markdown-rendered h1,
+.cm-header-1,
+.HyperMD-header-1 {
+  font-size: 1.85em !important;
+  font-weight: 700 !important;
+  color: var(--text-normal) !important;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.25em !important;
+  margin-top: 1.5em !important;
+  margin-bottom: 0.6em !important;
+}
+
+/* 二级标题 H2 */
+.markdown-rendered h2,
+.cm-header-2,
+.HyperMD-header-2 {
+  font-size: 1.48em !important;
+  font-weight: 650 !important;
+  color: var(--text-normal) !important;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.2em !important;
+  margin-top: 1.3em !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* 三级标题 H3 */
+.markdown-rendered h3,
+.cm-header-3,
+.HyperMD-header-3 {
+  font-size: 1.25em !important;
+  font-weight: 600 !important;
+  color: var(--text-normal) !important;
+  margin-top: 1.1em !important;
+  margin-bottom: 0.4em !important;
+}
+
+/* 四级标题 H4 */
+.markdown-rendered h4,
+.cm-header-4,
+.HyperMD-header-4 {
+  font-size: 1.12em !important;
+  font-weight: 600 !important;
+  color: var(--text-muted) !important;
+  margin-top: 0.9em !important;
+  margin-bottom: 0.3em !important;
+}
+
+/* 隐藏或弱化实时预览模式下的折叠指示器对齐干扰 */
+.cm-header-1,
+.cm-header-2 {
+  line-height: 1.3 !important;
+}

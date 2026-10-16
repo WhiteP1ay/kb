@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "759b31929a61bac0",
+        "id": "ec7463fb5eb03dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "3755d1a66932a404",
+            "id": "f20dc186eaea556b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Java-Stream流式操作与Lambda.md",
+                "file": "react/useSyncExternalStore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java-Stream流式操作与Lambda"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fa22f5ef3f5ab4b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b98d9d98b1156e2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/1. 模块化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 模块化"
+              "title": "useSyncExternalStore"
             }
           }
         ]
@@ -90,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 200
   },
   "right": {
     "id": "8a05a2c32c7c3fa4",
@@ -206,34 +186,35 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "3755d1a66932a404",
+  "active": "f20dc186eaea556b",
   "lastOpenFiles": [
-    "java/Java常用集合操作.md",
-    "环境变量.md",
-    "ai/推理流水线.md",
+    "react/cache-api.md",
+    "java/Maven基础与构建生命周期.md",
+    "node/process.nextTick.md",
     "node/pipeline.md",
     "mahāyāna/咒语备忘.md",
     "mahāyāna/四弘誓愿.md",
-    "mahāyāna/咒语/准提咒.md",
-    "mahāyāna/咒语/往生咒.md",
-    "mahāyāna/咒语/孔雀明王咒.md",
-    "mahāyāna/永嘉证道歌名句.md",
-    "mahāyāna/一心开二门.md",
-    "mahāyāna/五盖.md",
-    "mahāyāna/五方佛.md",
-    "mahāyāna/未命名.md",
     "mahāyāna/十善业.md",
     "mahāyāna/经文摘抄.md",
-    "mahāyāna/十二缘起.md",
-    "mahāyāna/菩提心.md",
-    "mahāyāna/净业三福.md",
-    "mahāyāna/华严经名句.md",
-    "mahāyāna/杂阿含经-观色无常.md",
-    "mahāyāna/观经-是心作佛.md",
-    "node/process.nextTick.md",
-    "python/语法坑-从JS迁移.md",
-    "python/推导式的边界.md",
-    "python/1. 模块化.md",
+    "mahāyāna/大悲咒.md",
+    "blogs/单休，工资翻倍我都不去.md",
+    "blogs/程序员“最好的时代”.md",
+    "blogs/tailwind好在哪.md",
+    "【面试】前端面试考点整理.md",
+    "环境变量.md",
+    "java/Java常用集合操作.md",
+    "java/Java-Stream流式操作与Lambda.md",
+    "blogs/软件开发正在变成狗屁职业.md",
+    "blogs/组合凭什么大于继承？.md",
+    "blogs/旗帜鲜明地支持养懒汉.md",
+    "blogs/怎么写好一份skill.md",
+    "blogs/写在2万公里，本田CB400F驾驶体验.md",
+    "blogs/为了干掉前端，我们付出多少努力.md",
+    "blogs/AI时代必做的几件事.md",
+    "blogs/README.md",
+    "blogs",
+    "ai/推理流水线.md",
+    "mahāyāna/咒语/准提咒.md",
     "java",
     "node",
     "browser",
@@ -243,7 +224,6 @@
     "js",
     "css",
     "fastapi",
-    "python",
     "assets/Pasted image 20260723135105.png",
     "assets/Pasted image 20260723171343.png",
     "未命名.canvas"
