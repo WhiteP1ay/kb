@@ -1,9 +1,8 @@
 ---
 tags:
   - 性能
-  - Core Web Vitals
   - 浏览器
-created: "2026-07-02"
+created: 2026-07-02
 ---
 
 # LCP（Largest Contentful Paint）最大内容绘制
