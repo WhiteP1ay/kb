@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/单休，工资翻倍我都不去.md",
+                "file": "blogs/旗帜鲜明地支持养懒汉.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单休，工资翻倍我都不去"
+              "title": "旗帜鲜明地支持养懒汉"
             }
           }
         ]
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.7890625
+    "width": 205.23046875
   },
   "right": {
     "id": "8a05a2c32c7c3fa4",
@@ -188,6 +188,17 @@
   },
   "active": "6c2acc3c67673908",
   "lastOpenFiles": [
+    "blogs/写在2万公里，本田CB400F驾驶体验.md",
+    "blogs/旗帜鲜明地支持养懒汉.md",
+    "blogs/README.md",
+    "blogs/tailwind好在哪.md",
+    "blogs/AI时代必做的几件事.md",
+    "blogs/组合凭什么大于继承？.md",
+    "blogs/怎么写好一份skill.md",
+    "blogs/为了干掉前端，我们付出多少努力.md",
+    "blogs/软件开发正在变成狗屁职业.md",
+    "blogs/程序员“最好的时代”.md",
+    "blogs/单休，工资翻倍我都不去.md",
     "python/TypedDict.md",
     "python/property与描述符.md",
     "python/8. 函数.md",
@@ -203,17 +214,6 @@
     "python/未命名.md",
     "python/魔术方法总览.md",
     "python/eq与hash.md",
-    "python/str与repr.md",
-    "python/相等与身份比较.md",
-    "python/列表推导式.md",
-    "python/类和对象.md",
-    "python/类的继承.md",
-    "python/对象销毁与垃圾回收.md",
-    "python/对象创建两阶段.md",
-    "python/单例模式.md",
-    "python/7. 推导式.md",
-    "python/5. 对象.md",
-    "python/4. 字典.md",
     "blogs",
     "java",
     "node",
