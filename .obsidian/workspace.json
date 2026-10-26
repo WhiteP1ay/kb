@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/旗帜鲜明地支持养懒汉.md",
+                "file": "blogs/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "旗帜鲜明地支持养懒汉"
+              "title": "README"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "6c2acc3c67673908",
   "lastOpenFiles": [
-    "blogs/写在2万公里，本田CB400F驾驶体验.md",
     "blogs/旗帜鲜明地支持养懒汉.md",
+    "blogs/写在2万公里，本田CB400F驾驶体验.md",
     "blogs/README.md",
     "blogs/tailwind好在哪.md",
     "blogs/AI时代必做的几件事.md",
