@@ -48,4 +48,4 @@ uv run uvicorn main:app --reload
 
 ## 相关笔记
 
-[[事件循环与async]] · [[FastAPI参数推导规则]]
+[[11. 事件循环与async|事件循环与async]] · [[FastAPI参数推导规则]]
